@@ -25,7 +25,7 @@ describe('<Display />', () => {
             getByText(/strikes/i);
         });
         
-        it.todo('displays balls and strikes');
+        // it.todo('displays balls and strikes');
         it.todo('updates when user records activity on Dashboard');
     });
 });
