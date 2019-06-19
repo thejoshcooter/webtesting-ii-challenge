@@ -15,9 +15,5 @@ describe("<App />", () => {
     it("renders without errors", () => {
       render(<App />);
     });
-
-  describe("Display Properties", () => {});
-    it.todo('displays the count of balls and strikes for at-bat');
-    it.todo('it updates when user records activity on dashboard');
-    });
+  });
 });
